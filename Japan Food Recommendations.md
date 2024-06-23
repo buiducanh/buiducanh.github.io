@@ -2,7 +2,7 @@
 layout: page
 title: Japan
 permalink: /japan
-order: "3"
+order: 3
 ---
 
 # Japan
