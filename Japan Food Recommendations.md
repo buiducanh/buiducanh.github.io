@@ -1,4 +1,5 @@
-# Tokyo
+# Japan
+## Tokyo
 ### Azabudai
 1. Pizza: https://maps.app.goo.gl/GBWTfRGL9T8vr3QW8
 ### Ginza
@@ -12,4 +13,4 @@
 8. Inaka Soba: https://maps.app.goo.gl/AZbRDf3WcyB2VEHu7
 9. Egg Sando & Pudding: https://maps.app.goo.gl/Uyz5Y7hZ4kPDXsoe6
 10. 
-# Shinjuku
+### Shinjuku
