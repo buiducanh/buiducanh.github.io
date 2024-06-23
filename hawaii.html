@@ -4,24 +4,23 @@ title: Hawaii
 permalink: /hawaii
 order: 2
 ---
-<!DOCTYPE html>
-<html lang="en">
-
-    <head>
-        <meta charset="UTF-8">
-        <title>Hello!</title>
-        <style>
-body, html {width: 100%; height: 100%; margin: 0; padding: 0}
-.container {display: flex; width: 100%; height: 100%; flex-direction: column; overflow: hidden;}
-.row { flex-grow: 1; border: none; margin: 0; padding: 0; }
-        </style>
-    </head>
-
-    <body>
-        <div class="container">
-	    <h1>Hawaii Export 11/28</h1>
-	    <iframe src="https://www.google.com/maps/d/embed?mid=1QTGySGkRVMXKFJLUA5TyYf9TiYyRa2g&ehbc=2E312F&noprof=1" class="row"></iframe>
-        </div>
-    </body>
-
-</html>
+<style type="text/css">
+.map-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+.map-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<h1>Hawaii Export 11/28</h1>
+<div class="map-container">
+    <iframe src="https://www.google.com/maps/d/embed?mid=1QTGySGkRVMXKFJLUA5TyYf9TiYyRa2g&ehbc=2E312F&noprof=1"></iframe>
+</div>
