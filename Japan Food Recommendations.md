@@ -5,6 +5,9 @@ permalink: /japan
 order: 3
 ---
 
+## Table of Contents
+* TOC
+{:toc}
 ## Tokyo
 ### Azabudai
 1. [Pizza](https://maps.app.goo.gl/GBWTfRGL9T8vr3QW8)
