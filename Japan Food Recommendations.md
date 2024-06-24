@@ -65,7 +65,7 @@ order: 3
 5. [Fried rice](https://maps.app.goo.gl/ajLR2tRYSQdQjNeq5)
  
  
-### Additional Research
+## Additional Research
 - Yakiniku [https://thepursuitoffoodperfection.wordpress.com/2019/11/04/best-yakiniku-in-tokyo-japan/](https://thepursuitoffoodperfection.wordpress.com/2019/11/04/best-yakiniku-in-tokyo-japan/)
 - Offal/ organ meat: [https://gurunavi.com/en/japanfoodie/2017/11/horumon-a-tourists-guide-to-japans-mottainai-cuisine.html?__ngt__=TT14c9d89ca002ac1e4aed53sO6zedDF61Z53BIK0jmcQM](https://gurunavi.com/en/japanfoodie/2017/11/horumon-a-tourists-guide-to-japans-mottainai-cuisine.html?__ngt__=TT14c9d89ca002ac1e4aed53sO6zedDF61Z53BIK0jmcQM)
 - [https://www.reddit.com/r/finedining/comments/16g9f83/got_a_few_reservations_in_tokyo_what_am_i_missing/](https://www.reddit.com/r/finedining/comments/16g9f83/got_a_few_reservations_in_tokyo_what_am_i_missing/)
