@@ -38,6 +38,29 @@ order: 3
 ### Shibuya
 1. [3 course Hamburger with rice, reserve in advance](https://maps.app.goo.gl/5o5KXajs6521qd6z6)
 2. [Michelin Tempura, reserve in advance](https://maps.app.goo.gl/1jUyQUmxo81JsnLZA)
+
+## Kyoto
+### Pontocho Alley
+1. [Organ hotpot](https://maps.app.goo.gl/J4TC5Fhzw3JLWLzt5)
+2. [Obanzai, English-speaking chef](https://maps.app.goo.gl/h5kKfUCy51Yt6jJt8)
+
+### Kawaramachi
+1. [Onigiri](https://maps.app.goo.gl/oWmLdUH1ieupBTJp9)
+2. [Yakiniku, well rounded, delicious mushroom, friendly, english-speaking service, call to get reservation](https://maps.app.goo.gl/xxiq5B7ipDv1dS9A7)
+3. [Meat sushi & Shaved Ice](https://maps.app.goo.gl/BzFsAUXtygE2A5W8A)A
+4. [Omi Beef Yakiniku, meat a little bit sweeter](https://maps.app.goo.gl/H3MS1XDjJKPbXq6G8)
+
+### Gion
+1. [Fruit Daifuku, Dorayaki](https://maps.app.goo.gl/xFcGSDEMk9fktPuS7)
+
+## Osaka
+### Dotonbori
+1. [Okonomiyaki, with simple art by request](https://maps.app.goo.gl/zjW6NZiUArFe95r98)
+2. [Unagi don](https://maps.app.goo.gl/mY4TkEC5EuRUkjbFA)
+3. [Sushi, good value](https://maps.app.goo.gl/mhURWdFG4CdZh2Ma6)
+4. [Cheap, hearty, Beef fat udon, entrance hidden on the second floor of the apartment building](https://maps.app.goo.gl/NEvvRPYt5SF5FEhS9)
+5. [Fried rice](https://maps.app.goo.gl/ajLR2tRYSQdQjNeq5)
+ 
  
 ### Additional Research
 - Yakiniku [https://thepursuitoffoodperfection.wordpress.com/2019/11/04/best-yakiniku-in-tokyo-japan/](https://thepursuitoffoodperfection.wordpress.com/2019/11/04/best-yakiniku-in-tokyo-japan/)
